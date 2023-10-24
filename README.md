@@ -7,9 +7,9 @@ This application is a spreadsheet matcher designed specifically for lay judges t
 
 Users can select two .xlsx files for comparison, and the app will then create a new Excel file with two spreadsheets: one containing data present in both spreadsheets, and the other containing data exclusive to the second input file.
 
-OBS1: The development of this program has no connection with TJMG, it was carried out at the request of some people.
+NOTE 1: The development of this program has no connection with TJMG, it was carried out at the request of some people.
 </br>
-OBS2: Since this app was made to fit a demand and was sold to the interested parties, the code is not open.
+NOTE 2: Since this app was made to fit a demand and was sold to the interested parties, the code is not open.
 
 ## Index
 - <a href="#functionalities">Application functionalities</a>
