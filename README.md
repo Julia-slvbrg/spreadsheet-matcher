@@ -3,11 +3,12 @@
 
   ![screen-layout](https://github.com/Julia-slvbrg/spreadsheet-matcher/assets/114543081/27c5e8a0-2275-47c3-945d-a71dff20caa8)
 
-This application is a spreadsheet matcher designed specifically for lay judges of the Minas Gerais Court in Brazil. Its purpose is to facilitate their management of processes that have already been cleared by the court.
+This application is a spreadsheet matcher designed specifically for lay judges that work in Belo Horizonte - Brazil. Its purpose is to facilitate their management of processes that have already been cleared by the court.
 
 Users can select two .xlsx files for comparison, and the app will then create a new Excel file with two spreadsheets: one containing data present in both spreadsheets, and the other containing data exclusive to the second input file.
 
-OBS: Since this app was made to fit a demand and was sold to the interested parties, the code is not open.
+OBS1: The development of this program has no connection with TJMG, it was carried out at the request of some people.
+OBS2: Since this app was made to fit a demand and was sold to the interested parties, the code is not open.
 
 ## Index
 - <a href="#functionalities">Application functionalities</a>
